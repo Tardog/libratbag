@@ -1,0 +1,11 @@
+[Device]
+Name=Roccat Kone AIMO
+DeviceMatch=usb:1e7d:2e27
+Driver=roccat_kone_aimo
+
+[Driver/roccat_kone_aimo]
+DeviceVersion=1
+Buttons=12
+Leds=1
+DpiRange=100:12000@100
+MacroLength=1

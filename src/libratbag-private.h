@@ -590,7 +590,8 @@ struct ratbag_driver hidpp20_driver;
 struct ratbag_driver hidpp10_driver;
 struct ratbag_driver logitech_g300_driver;
 struct ratbag_driver logitech_g600_driver;
-struct ratbag_driver roccat_driver;
+struct ratbag_driver roccat_kone_aimo_driver;
+struct ratbag_driver roccat_kone_xtd_driver;
 struct ratbag_driver gskill_driver;
 struct ratbag_driver steelseries_driver;
 
